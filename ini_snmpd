@@ -1,0 +1,1 @@
+snmpd -r -c ~/projecto1/snmpd.conf 20015
